@@ -6,12 +6,10 @@ EX.
 
 config.py
 
-<code>
-username="your username"  
+<code>username="your username"</code>
   
-password="your password"
+<code>password="your password"</code>
 
-chromeDriverlocation="/chrome/driver/location"
+<code>chromeDriverlocation="/chrome/driver/location"</code>
 
-url="urlof.oldcontrol.com"
-</code>
+<code>url="urlof.oldcontrol.com"</code>
